@@ -1,2 +1,3 @@
-#passwordフォルダを除外
-password/
+#passwordフォルダ以下ファイルを除外
+password/*
+!.gitkeep
